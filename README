@@ -1,0 +1,21 @@
+== Author
+
+Guilherme Zühlke O'Connor, 2009
+
+
+== What is it?
+
+This is a quick and dirty script that queries the twitter search API to check if user @kemoth has already said "Bom dia vermes" (Good morning, worms), a
+a phrase with which he greets his fellow twitters every day.
+
+The script will check against tweets matching the text pattern and will filter out the ones published before the current day, according to timezone America/Sao_Paulo.
+The script will then generate a page intending to answer the question: "Has @Kemoth already said 'good morning worms'".
+
+
+== Licence
+
+This work is licenced with Creative Commons Attribution-Non-Commercial 2.0 UK: England & Wales Licence. http://creativecommons.org/licenses/by-nc/2.0/uk/
+
+== Disclaimer
+
+This is a quick and dirty script and it may contain errors and be poorly optimised, by using this software you are liable for any problems derived from its use.
